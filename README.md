@@ -1,6 +1,6 @@
 ### 🚀 Thank You for Your Contribution!  
 
-Hey @<contributor-username>,  
+Hey @<contributor-arabiul>,  
 
 Thank you for your contribution to our Web3 project! 🎉 We truly appreciate your effort in improving [mention feature/bug fix/documentation update].  
 
